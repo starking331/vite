@@ -1,0 +1,33 @@
+{
+  "name": "sk-hw-1",
+  "version": "1.0.0",
+  "description": "Сайты, на которых можно найти всё, что вам нужно - https://developer.mozilla.org/ru/ - https://habr.com/ru/all/ - https://medium.com/ - https://www.w3schools.com/ - https://css-tricks.com/ - https://htmlacademy.ru/ - https://dev.to/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "cssnano": "^5.1.12",
+    "postcss": "^8.4.14",
+    "postcss-custom-media": "^8.0.2",
+    "postcss-import": "^14.1.0",
+    "postcss-loader": "^7.0.1",
+    "postcss-mixins": "^9.0.3",
+    "postcss-nested": "^5.0.6",
+    "postcss-nesting": "^10.1.10",
+    "postcss-normalize": "^10.0.1",
+    "postcss-preset-env": "^7.7.2",
+    "stylelint": "^14.9.1",
+    "vite": "^2.9.14"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "postcss-sanitize": "^0.0.9"
+  }
+}
